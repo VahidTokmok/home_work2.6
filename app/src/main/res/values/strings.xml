@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mapp</string>
+    <string name="entrance">Entrance</string>
+    <string name="welcome">Welcome!</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="sign">sign in</string>
+    <string name="login">Please login or register.</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="error">Incorrect login or password</string>
+    <string name="logged">You have successfully logged in</string>
+</resources>
